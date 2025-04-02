@@ -104,3 +104,8 @@ hr{
     height: 140px;
     width: 140px;
 }
+
+.btn.btn2{
+    display: inline-block;
+    background: #ff004f;
+}
